@@ -7,6 +7,11 @@
 ##  <a href="https://montecarlovisualizerpi.herokuapp.com/#/">Website Link</a>
 ### Deployed using Heroku
 
+
+## Repository notes
+### This repo is for deployment. Check out <a href="https://github.com/kazukageorge/MonteCarloVisualizer"  target="_blank">this repo</a> for detailed commits during development, detailing each step by step addition of components per commit
+
+
 ## How to run in your local computer
 1. Download this repo
 2. (Optional) Create a virtual environment and activate it. For Mac users follow here <https://sourabhbajaj.com/mac-setup/Python/virtualenv.html> 
