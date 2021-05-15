@@ -1,7 +1,18 @@
 # MonteCarloVisualizer
  
- 
+ <a href="https://montecarlovisualizerpi.herokuapp.com/#/">
 <img src="/images/montecarlo.gif" width="800"/>
+</a>
+
+##  <a href="https://montecarlovisualizerpi.herokuapp.com/#/">Website Link</a>
+### Deployed using Heroku, and deployed code is <a href="https://github.com/kazukageorge/MonteCarloVisualizer_deploy">here</a>
+
+## How to run in your local computer
+1. Download this repo
+2. (Optional) Create a virtual environment 
+3. In your virtual/local environment `cd` into the downloaded folder, and execute `pip install requirements.txt`
+4. Execute `python manage.py runserver`  
+
 
 # Approximating Pi
 
