@@ -34,8 +34,6 @@ Monte Carlo simulation is a method used to approximate numerical values. One exa
 
 Sample random number from [-1,1] from a uniform distribution and check if it lies inside/outside the unit circle. Approximate π using the area of the circle and the square from [-1,1]
 
-## Website
-Link here
 
 ## Components
 ### Input
@@ -45,8 +43,3 @@ Link here
 ### Output
 * Visualize the randomly generated points inside the figure per frame
 * Visualize the approximation of pi per frame
-
-
-
-# Protein Movement Prediction
-Backend for computation is computed, combing frontend and backend is work in progress. Check out the animation in the meanwhile
