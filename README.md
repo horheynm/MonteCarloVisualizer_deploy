@@ -29,7 +29,7 @@
 
 ### Backend
 * Django
-* Django Rest 
+* Django REST framework 
 
 
 # Approximating Pi
