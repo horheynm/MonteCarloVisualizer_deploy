@@ -16,7 +16,7 @@ const Navigation = () => {
 
                         <Col>
                             <img
-                                src="/images/montecarlo.png"
+                                src="../images/montecarlo.png"
                                 className="rounded mx-auto d-block"
                                 width="95%"
                                 style={{hover: ''}}
