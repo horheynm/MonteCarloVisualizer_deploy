@@ -9,14 +9,14 @@ const Navigation = () => {
     return (
 
         <div>
-            {/* <h2>Projects</h2> */}
+            <h2>Link to Projects</h2>
             <Container>
                 <Row>
                     <LinkContainer to='/pi' style={{ cursor: "pointer" }}>
 
                         <Col>
                             <img
-                                src="../images/montecarlo.png"
+                                src="/images/montecarlo.png"
                                 className="rounded mx-auto d-block"
                                 width="95%"
                                 style={{hover: ''}}

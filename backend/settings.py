@@ -153,7 +153,7 @@ STATICFILES_DIRS = [
 MEDIA_ROOT = BASE_DIR / 'static/images'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 
-# if os.getcwd() == '/app':
-#     DEBUG=False
+if os.getcwd() == '/app':
+    DEBUG=False
 
 
