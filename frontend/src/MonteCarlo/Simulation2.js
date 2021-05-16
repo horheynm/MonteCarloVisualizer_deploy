@@ -16,7 +16,7 @@ function Simulation2({ iteration, framerate }) {
     useEffect(() => {
         if (loading) {
             async function getData(iteration, framerate) {
-                const { data } = await axios.get(`http://127.0.0.1:8000/MonteCarlo/iteration=${iteration}_framerate=${framerate}`)
+                const { data } = await axios.get(`/MonteCarlo/iteration=${iteration}_framerate=${framerate}`)
                 setData(data)
                 setLoading(false)
                 // console.log(data)
