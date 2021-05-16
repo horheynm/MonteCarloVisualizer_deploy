@@ -92,6 +92,7 @@ class Parameters extends Component {
         //     resetButtonVariant:"secondary",
 
         // })
+        
 
         await this.setStateAsync({ iteration: 1000, });
         await this.setStateAsync({  framerate: 100, });
