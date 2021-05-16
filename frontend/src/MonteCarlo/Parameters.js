@@ -147,7 +147,7 @@ class Parameters extends Component {
                             <input
                                 type="range"
                                 min="0"
-                                max="10000"
+                                max="5000"
                                 name='simulation_value'
                                 style={{ height: "50%", width: "80%" }}
                                 step="100"
